@@ -2,5 +2,6 @@
 repositório para o projeto da matéria Arquitetura de Computadores <br />
 Jogo: Save Caco <br />
 resolução do bitmap: 256x512 <br />
-necessário compilar todos os arquivos da pasta <br />
 base address: 0x10008000 <br />
+necessário compilar todos os arquivos da pasta <br />
+
